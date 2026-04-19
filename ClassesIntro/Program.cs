@@ -2,6 +2,7 @@
 // See https://aka.ms/new-console-template for more information
 // string playerAvatar = "@";
 // Console.WriteLine(playerAvatar);
+Vector2 startingPosition = new Vector2(4, 2);
 Player hero = new Player();
 
 while (true)
